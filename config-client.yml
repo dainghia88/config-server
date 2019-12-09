@@ -1,1 +1,2 @@
 message: refresh 2 hello
+spring.datasource.password: "{cipher}858201e10fe3c9513e1d28b33ff417a66e8c8411dcff3077c53cf53d8a1be360"
